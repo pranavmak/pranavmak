@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranav Makote</h1>
 <h3 align="center">I am a Frontend Engineer from India</h3>
 
-- 🌱 I’m currently learning **React.js, AWS**
+- 🌱 I’m currently learning **React.js, Frontend Development
 
-- 💬 Ask me about **Core java, Spring Boot, SQL, Application Development**
+- 💬 Ask me about **Javascript, React.js, Frontend Development, SQL, Application Development**
 
 - 📫 How to reach me **pranav.makote97@gmail.com**
 
