@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Makote</h1>
-<h3 align="center">I am a **Site Reliability Engineer** from India</h3>
+<h3 align="center">I am a Site Reliability Engineer from India</h3>
 
 - 🌱 I’m currently learning **DevOps Engineering**
 
