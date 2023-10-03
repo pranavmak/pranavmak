@@ -52,12 +52,15 @@
 </a>
 <!-- Stats and GitHub activity -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n4si&label=Profile views&color=0e75b6&style=flat" alt="pranavmak" /> </p>
+
 - I work on DevOps, Microservices, containers, and everything around it.
 - 👯 I’m looking to collaborate on **Cloud-native Projects**
+
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
 </p>
+
 - 👨‍💻 All of my projects are available at [pranavmak](https://https://github.com/pranavmak)
 - 💬 Ask me about **SRE && DevOps**
 - 📫 How to reach me **[pranav.makote97@gmail.com](mailto:pranav.makote97@gmail.com)**
