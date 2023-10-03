@@ -58,7 +58,7 @@
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
 </p>
-- 👨‍💻 All of my projects are available at [cloudchamp.in](https://www.notion.so/cloudchamp/cloudchamp.in)
+- 👨‍💻 All of my projects are available at [pranavmak](https://https://github.com/pranavmak)
 - 💬 Ask me about **SRE && DevOps**
 - 📫 How to reach me **[pranav.makote97@gmail.com](mailto:pranav.makote97@gmail.com)**
 - ⚡ Fun fact **I travel a lot and love swimming**
