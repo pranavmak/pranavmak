@@ -1,4 +1,4 @@
-@@ -1,11 +1,11 @@
+
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Pranav Makote a.k.a <a href="">pranavmak</a></font></h1>
 <h3 align="center"><font face="Arial"><a href="www.linkedin.com/in/pranavmakote" target="_blank" rel="noreferrer">pranavmakote</a> is a passionate Site Reliabilty Engineer/DevOps Engineer from India, working on Cloud and DevOps for 2+ years now.</font></h3>
