@@ -1,7 +1,7 @@
 
 <!-- Header Section -->
 <h1 align="center"><font face="Arial"> Hi 👋, I'm Pranav Makote a.k.a <a href="">pranavvvmak</a></font></h1>
-<h3 align="center"><font face="Arial"><a href="www.linkedin.com/in/pranavmakote" target="_blank" rel="noreferrer">pranavmakote</a> is a passionate DevOps and Site Reliability Engineer from India, working on Cloud infrastucture for 2+ years.</font></h3>
+<h3 align="center"><font face="Arial"><a href="www.linkedin.com/in/pranavmakote" target="_blank" rel="noreferrer">pranavmakote</a> is a passionate DevOps and Site Reliability Engineer from India, working on Cloud infrastucture for last 3 years.</font></h3>
 
 
 <!-- GIF -->
