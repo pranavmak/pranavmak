@@ -24,7 +24,7 @@
 <!-- Add more cloud-related tools here -->
 
 <!-- Scripting Section -->
-<h4><font size="+1" face="Tahoma">Scripting:</font></h4>
+<h4><font size="+1" face="Tahoma">Coding & Scripting:</font></h4>
 <p align="left">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 <img src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png" alt="bash" width="100" height="100"/>
@@ -56,7 +56,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 <!-- Stats and GitHub activity -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n4si&label=Profile views&color=0e75b6&style=flat" alt="pranavmak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n4si&label=Profileviews&color=0e75b6&style=flat" alt="pranavmak" /> </p>
 
 - I work on DevOps, Microservices, containers, and everything around it.
 - 👯 I’m looking to collaborate on **Cloud-native Projects**
@@ -66,7 +66,8 @@
 <p align="left">
 </p>
 
-- 👨‍💻 All of my projects are available at [pranavmak](https://https://github.com/pranavmak)
+- 👯 Connect me on Linkedin [Pranav Makote](https://www.linkedin.com/in/pranavmakote/)
+- 👨‍💻 All of my projects are available at [pranavmak](https://github.com/pranavmak)
 - 💬 Ask me about **SRE && DevOps**
 - 📫 How to reach me **[pranav.makote97@gmail.com](mailto:pranav.makote97@gmail.com)**
 - ⚡ Fun fact **I travel a lot and love swimming**
