@@ -41,24 +41,38 @@
 <!-- Technologies Section -->
 <h4><font size="+1" face="Tahoma">Technologies:</font></h4>
 <p align="left">
+<a href="https://(https://fastapi.tiangolo.com/)">
+  <img src="https://static.cdnlogo.com/logos/f/82/fastapi_800.png" alt="FastAPI" width="40" height="40">
+</a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
+<!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a> -->
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="40" height="40"/>
 </a>
-<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
-<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://cdnlogo.com/logo/dynatrace_143949.html">
+  <img src="https://static.cdnlogo.com/logos/d/63/dynatrace_800.png" width="40" height="40"/>
+</a>
+<a href="https://www.elastic.co" target="_blank" rel="noreferrer">  
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
+</a>
+<a href="https://grafana.com" target="_blank" rel="noreferrer">  
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
+</a>
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">  
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+</a>
 
 <!-- Stats and GitHub activity -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n4si&label=Profileviews&color=0e75b6&style=flat" alt="pranavmak" /> </p>
 
-- I work on DevOps, Microservices, containers, and everything around it.
+- I work on SRE, Automations, DevOps, Microservices, Observability and everything around it.
 - 👯 I’m looking to collaborate on **Cloud-native Projects**
 
 <!-- Contact Section -->
